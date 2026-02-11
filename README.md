@@ -4,7 +4,7 @@
 
 Este proyecto consiste en el análisis exploratorio de datos de la Premier League mediante la construcción de un dashboard interactivo en Power BI.
 
-El objetivo principal fue analizar el rendimiento ofensivo de los equipos, la estructura de las plantillas y el perfil etario de los jugadores, utilizando técnicas de transformación de datos y modelado con DAX.
+El objetivo principal fue analizar el rendimiento ofensivo de los equipos, la composición de las plantillas y la distribución de edades de los jugadores, utilizando técnicas de transformación de datos y modelado con DAX.
 
 ---
 
