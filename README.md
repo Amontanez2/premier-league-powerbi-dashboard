@@ -70,9 +70,9 @@ Se diseñaron dashboards enfocados en:
 
 ## 📷 Vista del Dashboard
 
-![Dashboard General](images/dashboard1.png)
+![Dashboard General](images/dashboard_premierleague1.png)
 
-![Dashboard Goles](images/dashboard2.png)
+![Dashboard Goles](images/dashboard_premierleague2.png)
 
 ---
 
